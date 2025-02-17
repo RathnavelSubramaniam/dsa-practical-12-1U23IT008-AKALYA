@@ -96,7 +96,7 @@ public class linkedStack {
             System.out.print(current.data + " -> ");
             current = current.next;
         }
-        System.out.println("null");
+        System.out.println("NULL");
     }
 }
 
